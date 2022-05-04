@@ -1,0 +1,12 @@
+Walking Letters pack
+
+Requires Unity 5.4.2 or higher.
+
+Walking Letters pack is a pack of rigged and animated letter characters of the English alphabet.
+
+The pack includes prefabs of 26 animated characters from A to Z with a run, walk and a backflip animation.
+All of the models have a unique hand painted texture with a dimension of 1024x1024.
+The models are low polyigon, with an average off 300 Vertices.
+
+The letters can be used as a s children's educational game, puzzle game or as a funny way of spelling out text in your game.
+
